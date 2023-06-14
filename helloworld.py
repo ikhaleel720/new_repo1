@@ -1,3 +1,3 @@
 # This program prints Hello, world!
-#basic
+#simple hello world program
 print('Hello, world!')
